@@ -4,8 +4,7 @@ Welcome to **BodyBit** support. We are here to help you get the most out of your
 
 ## 1. Contact Us
 If you have any questions, issues, or feedback, please reach out to us at:
-* **Email:** [Your Support Email Here]
-* **Website:** [Your GitHub Profile or Website Link]
+* **Email:** rudrasharma@duck.com
 
 ## 2. Frequently Asked Questions (FAQ)
 
